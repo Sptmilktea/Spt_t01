@@ -68,3 +68,8 @@
 }
 
 
+/* 按鈕增加上下排時的間距
+ */
+.content-section .container div div a {
+  margin: 5px;
+}
