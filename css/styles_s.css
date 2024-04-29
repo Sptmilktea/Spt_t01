@@ -1,3 +1,4 @@
+@charset "UTF-8";
 
 /* twitch、youtube、discord 圖示
  * SVG圖檔來源於https://iconify.design/
@@ -68,7 +69,7 @@
 }
 
 
-/* 按鈕增加上下排時的間距
+/* 增加按鈕和圖片的外間距
  */
 .content-section .container div div a {
   margin: 5px;
