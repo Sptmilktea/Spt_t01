@@ -74,3 +74,21 @@
 .content-section .container div div a {
   margin: 5px;
 }
+
+/* 活動內容圖片的寬高
+ */
+ .festival {
+  padding: 15rem 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.festival h2, .festival .h2 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  display: block;
+  max-width: 30rem;
+}
+.ft-00{
+	width: 100%;
+}
